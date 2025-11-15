@@ -1,5 +1,7 @@
-# how
+# wiki
 
-how.jouleverse.com, a know-how repository of Jouleverse.
+Jouleverse wiki site, please visit: https://wiki.jouleverse.com
 
-please visit: https://how.jouleverse.com
+## History
+
+2025.11 upgraded how to wiki. added newsletter.

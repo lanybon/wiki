@@ -1,40 +1,17 @@
-Note: 欢迎来到Jouleverse知识库! 本知识库的网址是 https://how.jouleverse.com ，欢迎收藏以备随时访问。本知识库的建设目标是成为你了解从使用到参与Jouleverse所需要知道的各种知识和操作指南。
+# 欢迎访问焦耳维基
 
-知识库分类内容：
+Welcome to Jouleverse wiki!
 
-## 入门必读
+维基（wiki）意为众人共创知识。比如世界知名的维基百科（wikipedia）即为全球贡献者共同创作的百科全书网站。
 
-[Jouleverse(焦耳宇宙)漫游指南](contribute/how-to-ramp-up.md)
+目前焦耳维基设两个板块：
 
-[如何向Jouleverse core做贡献(并获得激励)](contribute/how-to-contribute-to-core.md)
+一、[知识库](/docs/index.md)
 
-## 知识库
+关于Jouleverse的各种文档和指南。由原how.jouleverse.com迁移而来。
 
-[如何向知识库贡献内容](contribute/tutorial.md)
+二、[焦耳通讯](/blog/index.md)
 
-
-## 节点网络
-
-[Jouleverse主网节点搭建指南](network/how-to-setup-jouleverse-node.md)
-
-[如何找回nodekey文件](network/how-to-recover-nodekey.md)
-
-[如何创建虚拟内存(Swap) ](network/how-to-make-swap.md)
+关于Jouleverse的最新动态。与公众号「焦耳宇宙」保持同步更新，作为后者的分布式备份和存档。
 
 
-<!--
-## 贡献与激励
-
-[如何为Jouleverse做贡献并获得激励](incentive/how-to-contribute-to-jouleverse.md)
-
-[技术开发英雄帖](technology/hero-wanted.md)
-
--->
-
-#### 贡献者列表
-
-向本知识库提交过内容的贡献者有：教链, cijin, Jeff
-
-#### 版权
-
-CC0
